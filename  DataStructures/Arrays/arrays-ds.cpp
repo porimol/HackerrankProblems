@@ -10,7 +10,7 @@
 
 int main() {
 
-    int n, i, j, temp, arr[1000];
+    int n, i, arr[1000];
 
     scanf("%d", &n);
 
@@ -22,3 +22,4 @@ int main() {
 
     return 0;
 }
+
